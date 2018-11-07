@@ -1,6 +1,6 @@
 //integer variables
-int X= 250;
-int Y= 195;
+int X = 250;
+int Y = 195;
 int bounce= 1;
 //sets up the background
 void setup() {
